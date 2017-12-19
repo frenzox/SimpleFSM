@@ -1,5 +1,5 @@
-#ifndef SM_H
-#define SM_H
+#ifndef FSM_H
+#define FSM_H
 
 typedef void (*function_pointer)(void *);
 
@@ -15,4 +15,4 @@ typedef struct{
 #define FIRST               (_sm_->first_time)
 #define COMPARE(sm,name)	(sm.ptr == (function_pointer)name)
 
-#endif // SM_H
+#endif // FSM_H
