@@ -1,4 +1,6 @@
 # SimpleFSM
+![SimpleFSM](https://raw.githubusercontent.com/frenzox/SimpleFSM/master/logo.png "SimpleFSM")
+
 A really, really simple finite state machine framework
 
 ## Usage
