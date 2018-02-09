@@ -78,6 +78,6 @@ if(COMPARE(traffic_light_sm, RED)) {
 }
 ```
 
-# Acknoledgements
+# Acknowledgements
 
 Many thanks to Professor [Afonso Miguel](http://afonsomiguel.com)
